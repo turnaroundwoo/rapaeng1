@@ -1,6 +1,6 @@
-# 기능 1
+# detail-page 기능
 
 
 
 
-# 기능 2
+# cart 기능
